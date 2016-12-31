@@ -3,16 +3,16 @@
 /// ~ Change these values! ~ ///
 
 // YouTube API key
-const APIKEY = "REPLACE_WITH_API_KEY";
+const APIKEY = "AIzaSyBKHjLFqMdkmBPC7ykQdBnYsJ68RYO_Sao";
 
 // YouTube channel ID
-const CHANNELID = "REPLACE_WITH_CHANNEL_ID";
+const CHANNELID = "老皮";
 
 // Secret - must match ytnotify_subscribe script; should be reasonably hard to guess
-const SECRET = "REPLACE_WITH_UNIQUE_SECRET";
+const SECRET = "5487";
 
 // Discord webhook URL
-const WEBHOOKURL = "REPLACE_WITH_WEBHOOK_URL";
+const WEBHOOKURL = "https://discordapp.com/api/webhooks/264824386958262283/DcAgCmQS0J1HuC4-DwDz71EEVr0y9R0DSruXPfbgLS8L5Wrl0KXSIpr7X3xxVmqrn6og";
 
 ///   ///   ///  ///   ///   ///
 
