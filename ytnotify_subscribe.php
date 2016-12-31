@@ -3,7 +3,7 @@
 /// ~ Change these values! ~ ///
 
 // YouTube channel ID
-const CHANNELID = "REPLACE_WITH_CHANNEL_ID";
+const CHANNELID = "老皮";
 
 // Public callback URL
 const CALLBACKURL = "REPLACE_WITH_CALLBACK_URL";
