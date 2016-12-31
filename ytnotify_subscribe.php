@@ -3,13 +3,13 @@
 /// ~ Change these values! ~ ///
 
 // YouTube channel ID
-const CHANNELID = "老皮";
+const CHANNELID = "tolocat";
 
 // Public callback URL
 const CALLBACKURL = "REPLACE_WITH_CALLBACK_URL";
 
 // Secret - must match ytnotify_subscribe script; should be reasonably hard to guess
-const SECRET = "REPLACE_WITH_UNIQUE_SECRET";
+const SECRET = "5487";
 
 ///   ///   ///  ///   ///   ///
 
