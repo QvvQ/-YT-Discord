@@ -6,7 +6,7 @@
 const APIKEY = "AIzaSyBKHjLFqMdkmBPC7ykQdBnYsJ68RYO_Sao";
 
 // YouTube channel ID
-const CHANNELID = "老皮";
+const CHANNELID = "tolocat";
 
 // Secret - must match ytnotify_subscribe script; should be reasonably hard to guess
 const SECRET = "5487";
